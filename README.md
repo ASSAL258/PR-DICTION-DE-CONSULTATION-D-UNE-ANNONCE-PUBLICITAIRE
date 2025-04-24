@@ -1,4 +1,4 @@
-# Prédiction du clic sur une publicité en ligne avec Python
+# Prédiction du clique sur une publicité en ligne avec Python
 
 Ce projet a pour objectif de prédire si un internaute cliquera ou non sur une publicité en ligne, en se basant sur son profil et son comportement de navigation. Plusieurs algorithmes d’apprentissage supervisé ont été utilisés pour construire et comparer les modèles, notamment la Régression Logistique, LDA, QDA et la Forêt Aléatoire (Random Forest).
 
