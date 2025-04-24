@@ -1,7 +1,9 @@
-Prédiction du clic sur une publicité en ligne avec Python
+# Prédiction du clic sur une publicité en ligne avec Python
+
 Ce projet a pour objectif de prédire si un internaute cliquera ou non sur une publicité en ligne, en se basant sur son profil et son comportement de navigation. Plusieurs algorithmes d’apprentissage supervisé ont été utilisés pour construire et comparer les modèles, notamment la Régression Logistique, LDA, QDA et la Forêt Aléatoire (Random Forest).
 
-Jeu de données
+# Jeu de données
+
 Le jeu de données utilisé dans ce projet contient les variables suivantes :
 
 Daily_Time_Spent_on_Site : Temps passé sur le site par l'utilisateur (en minutes)
@@ -20,7 +22,8 @@ Timestamp : Date et heure de l’interaction
 
 Clicked_on_Ad : Variable cible (1 si l'utilisateur a cliqué sur la publicité, 0 sinon)
 
-Objectif
+# Objectif
+
 L’objectif est de :
 
 Réaliser une analyse exploratoire des données (EDA)
